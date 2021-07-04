@@ -14,7 +14,7 @@
         - instagram.svg
         - linkedin.svg
         - youtube.svg
-        - hudson.png
+        - helson.jpeg
     - css/
         - style.css
 
